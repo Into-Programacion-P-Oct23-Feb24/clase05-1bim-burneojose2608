@@ -33,6 +33,7 @@ public class Ejemplo1 {
             System.out.printf("Estudiante aprobado con un "
                     + "promedio: %.2f\n", promedio);
         }
-    }
+    } //finalasacion del metodo main 
+    
 
 }
